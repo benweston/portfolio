@@ -20,6 +20,8 @@
     </p>
 </div>
 
+Hugo is provided under the [Apache-2.0 license](https://github.com/gohugoio/hugo?tab=Apache-2.0-1-ov-file#readme).   
+
 ## Acknowledgements
 
 <div align="left">
