@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benweston/portfolio/blob/main/assets/banner-image.png" alt="Abstract Architecture" width="900" height="70" />
+    <img src="https://github.com/benweston/portfolio/blob/main/img/banner-image.png" alt="Abstract Architecture" width="900" height="70" />
 </div>
 
 # Portfolio
@@ -15,7 +15,7 @@
 <div align="left">
     <p align="left">
         <a href="https://github.com/benweston/portfolio/blob/main/LICENSE">
-            <img src="https://github.com/benweston/portfolio/blob/main/assets/license-icon-mit.png" width="88" height="31" alt="license-icon-mit" />
+            <img src="https://github.com/benweston/portfolio/blob/main/img/license-icon-mit.png" width="88" height="31" alt="license-icon-mit" />
         </a>
     </p>
 </div>
