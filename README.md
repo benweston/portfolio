@@ -20,6 +20,8 @@
     </p>
 </div>
 
+## Acknowledgements
+
 <div align="left">
     Banner taken from photo by <a href="https://unsplash.com/@williamdaigneault?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">William Daigneault</a> on
     <a href="https://unsplash.com/photos/low-angle-photography-of-building-during-daytime-grayscale-photography-Hx5vtx2e4KQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
