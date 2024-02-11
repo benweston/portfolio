@@ -20,7 +20,7 @@
     </p>
 </div>
 
-<div align="justify">
+<div align="left">
 
 [Hugo](https://gohugo.io/) is provided under the [Apache-2.0 license](https://github.com/gohugoio/hugo?tab=Apache-2.0-1-ov-file#readme).   
 [adritian-free-hugo-theme](https://github.com/zetxek/adritian-free-hugo-theme) is provided under the [MIT license](https://github.com/zetxek/adritian-free-hugo-theme?tab=MIT-1-ov-file#readme).   
