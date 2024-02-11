@@ -10,17 +10,6 @@
 
 </div>
 
-## Project Roadmap
-
-<div align="left">
-
-All current & upcoming work is captured within the following project:   
-| Project Name | Description |
-| :----- | :----- |
-| [Portfolio](https://github.com/users/benweston/projects/6/views/1) | Upcoming personal portfolio site. |
-
-</div>
-
 ## License
 
 <div align="left">
