@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benweston/portfolio/blob/main/img/banner-image.png" alt="Abstract Architecture" width="900" height="70" />
+    <img src="https://github.com/benweston/portfolio/blob/main/img/banner-image.png" alt="Abstract Architecture" width="900" height="90" />
 </div>
 
 # Portfolio
