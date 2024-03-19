@@ -8,5 +8,8 @@ terraform {
 }
 
 provider "google" {
-  # Configuration options
+  project     = ""
+  region      = ""
+  zone        = ""
+  credentials = file("")
 }
