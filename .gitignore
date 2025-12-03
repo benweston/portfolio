@@ -128,6 +128,12 @@ coverage.xml
 cython_debug/
 .ipynb_checkpoints
 
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
 ###################################
 # Django
 ###################################
